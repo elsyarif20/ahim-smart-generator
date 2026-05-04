@@ -1,0 +1,7 @@
+{
+  "name": "AHIM SMART GENERATOR",
+  "description": "A smart platform to generate teaching materials and adaptive assessments specifically for SMA (High School) level, aligned with the \u0027Kurikulum Merdeka\u0027.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
